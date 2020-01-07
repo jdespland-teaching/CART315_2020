@@ -1,1 +1,9 @@
-# CART315_2020
+# CART 315: Digital Game Prototyping
+
+### [[Course Outline]]  
+
+### [[Class Schedule]]
+
+### [[Assignments]]
+
+### [[Resources]]
